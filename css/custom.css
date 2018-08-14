@@ -19,14 +19,11 @@ body {
     background-attachment: fixed;
  }
 
- hr.type_1 {
-  border: 0;
-  height: 55px;
-  background-image: url(image/type_1.png);
-  background-repeat: no-repeat;
-  }
-
-
+ .line {
+   color: white;
+   width: 1450px;
+   border-color: white;
+ }
 
 
   .clear1 {
