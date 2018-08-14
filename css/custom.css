@@ -12,12 +12,19 @@
 }
 
 body {
-    background: url("https://raw.githubusercontent.com/Gruuve/engine-homepage/master/images/backimg1.png");
+    background: url("https://raw.githubusercontent.com/Gruuve/gruuve-news/master/images/backgr.jpg");
     background-position: absolute; 
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
  }
+
+ hr.type_1 {
+  border: 0;
+  height: 55px;
+  background-image: url(image/type_1.png);
+  background-repeat: no-repeat;
+  }
 
 
 
