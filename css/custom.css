@@ -2,11 +2,13 @@
     /*font-family: 'Francois One', sans-serif;*/
     font-size: 60px;
     font-family: 'Lobster', cursive;
+    color: white;
 }
 
 .subtag {
     font-family: 'Open Sans', sans-serif;
     font-size: 45px;
+    color: white;
 }
 
 body {
